@@ -29,10 +29,6 @@ public class Aluno {
         this.sexo = sexo;
     }
 
-    //entender direito quando chegar em casa
-    //set = definir/alterar o atibuto
-    //get = retorna o atributo
-
     public static int getContador(){
         return contador;
     }
