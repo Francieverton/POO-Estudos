@@ -11,9 +11,6 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        //pq que é mais recomendado usar o nextLine do que o next(tem problema no \n)
-        //usar o nextLine pra pegar o enter e dar quebra de linha
-
         System.out.print("Informe a matricula do aluno: ");
         long matricula = sc.nextLong();
 
