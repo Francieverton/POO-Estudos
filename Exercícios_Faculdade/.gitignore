@@ -29,7 +29,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea/
 *.iml
+.idea/
 *.pdf
-primeirosexercicios/
